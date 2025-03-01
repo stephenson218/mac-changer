@@ -1,4 +1,4 @@
-MAC Changer Pro
+MAC Changer
 
 A simple and efficient MAC address changer written in Python. This script allows users to:
 
